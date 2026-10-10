@@ -1,0 +1,6 @@
+{
+  "name": "Muhid & Nisha - A Secret World of Love",
+  "description": "A romantic interactive proposal and love celebration page created by Muhid for Nisha.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
